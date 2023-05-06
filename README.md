@@ -22,9 +22,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/robertSawlton/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
+    <a href="https://github.com/robertSawlton/Bits-0f-C0de/issues">Request Feature</a>
 </h3>
 
 ## Built With
@@ -71,8 +71,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To write your own blogs create a markdown file in `_content` folder with the specified format. 
 
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>

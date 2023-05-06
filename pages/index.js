@@ -34,10 +34,6 @@ export default function Home({ blogs, topics }) {
           property="og:description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
-        <meta
-          property="og:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
-        />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://blogs.soumya-jit.tech/" />
@@ -45,10 +41,6 @@ export default function Home({ blogs, topics }) {
         <meta
           property="twitter:description"
           content="Tech blogs and articles on various topics related to Software Development"
-        />
-        <meta
-          property="twitter:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
       </Head>
 
