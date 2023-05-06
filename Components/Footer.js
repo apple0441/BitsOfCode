@@ -21,36 +21,12 @@ function Footer() {
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <a
-              className="text-gray-50"
-              href="https://twitter.com/soumyajit4419"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <SiTwitter />
-            </a>
-            <a
               className="ml-4 text-gray-50"
-              href="https://github.com/soumyajit4419"
+              href="https://github.com/robertSawlton"
               rel="noopener noreferrer"
               target="_blank"
             >
               <SiGithub />
-            </a>
-            <a
-              className="ml-4 text-gray-50"
-              href="https://www.instagram.com/soumyajit4419/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <SiInstagram />
-            </a>
-            <a
-              className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/soumyajit4419/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <FiLinkedin />
             </a>
           </span>
         </div>
